@@ -1,0 +1,2 @@
+I had a hundred problems with this commit actually the problem was only in config and rowCount
+all sorted out right to go ahead. This getall returns everything on the table
